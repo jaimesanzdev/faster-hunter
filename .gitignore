@@ -1,0 +1,112 @@
+#####################################
+# UNITY GENERATED FOLDERS
+#####################################
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+#####################################
+# UNITY AUTO-GENERATED FILES
+#####################################
+
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+
+#####################################
+# IDEs / EDITORS
+#####################################
+
+.vscode/
+.vs/
+.idea/
+.consulo/
+.gradle/
+ExportedObj/
+
+#####################################
+# BUILD ARTIFACTS
+#####################################
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+*.ipa
+
+#####################################
+# ADDRESSABLES / ANDROID GENERATED
+#####################################
+
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/StreamingAssets/aa.meta
+/Assets/StreamingAssets/aa/*
+
+#####################################
+# CRASH / LOG FILES
+#####################################
+
+*.log
+crashlytics-build.properties
+
+#####################################
+# macOS SYSTEM FILES
+#####################################
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+#####################################
+# WINDOWS SYSTEM FILES
+#####################################
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+#####################################
+# LINUX SYSTEM FILES
+#####################################
+
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+#####################################
+# TEMP / BACKUP FILES (GENERIC)
+#####################################
+
+*.bak
+*.swp
+*.orig
+*.rej
