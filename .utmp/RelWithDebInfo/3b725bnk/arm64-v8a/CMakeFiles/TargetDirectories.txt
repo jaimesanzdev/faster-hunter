@@ -1,8 +1,0 @@
-/Users/jaimesanzvillalba/Desktop/dev/Unity/Faster-Hunter/.utmp/RelWithDebInfo/3b725bnk/arm64-v8a/CMakeFiles/edit_cache.dir
-/Users/jaimesanzvillalba/Desktop/dev/Unity/Faster-Hunter/.utmp/RelWithDebInfo/3b725bnk/arm64-v8a/CMakeFiles/rebuild_cache.dir
-/Users/jaimesanzvillalba/Desktop/dev/Unity/Faster-Hunter/.utmp/RelWithDebInfo/3b725bnk/arm64-v8a/GameActivity/CMakeFiles/game.dir
-/Users/jaimesanzvillalba/Desktop/dev/Unity/Faster-Hunter/.utmp/RelWithDebInfo/3b725bnk/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
-/Users/jaimesanzvillalba/Desktop/dev/Unity/Faster-Hunter/.utmp/RelWithDebInfo/3b725bnk/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
-/Users/jaimesanzvillalba/Desktop/dev/Unity/Faster-Hunter/.utmp/RelWithDebInfo/3b725bnk/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
-/Users/jaimesanzvillalba/Desktop/dev/Unity/Faster-Hunter/.utmp/RelWithDebInfo/3b725bnk/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
-/Users/jaimesanzvillalba/Desktop/dev/Unity/Faster-Hunter/.utmp/RelWithDebInfo/3b725bnk/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
