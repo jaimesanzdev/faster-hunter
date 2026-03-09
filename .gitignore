@@ -1,7 +1,6 @@
 #####################################
 # UNITY GENERATED FOLDERS
 #####################################
-
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -11,11 +10,11 @@
 UserSettings/
 MemoryCaptures/
 Recordings/
+.utmp/
 
 #####################################
 # UNITY AUTO-GENERATED FILES
 #####################################
-
 *.csproj
 *.unityproj
 *.sln
@@ -36,7 +35,6 @@ sysinfo.txt
 #####################################
 # IDEs / EDITORS
 #####################################
-
 .vscode/
 .vs/
 .idea/
@@ -47,7 +45,6 @@ ExportedObj/
 #####################################
 # BUILD ARTIFACTS
 #####################################
-
 *.apk
 *.aab
 *.unitypackage
@@ -61,7 +58,6 @@ ExportedObj/
 #####################################
 # ADDRESSABLES / ANDROID GENERATED
 #####################################
-
 /Assets/AddressableAssetsData/*/*.bin*
 /Assets/StreamingAssets/aa.meta
 /Assets/StreamingAssets/aa/*
@@ -69,14 +65,12 @@ ExportedObj/
 #####################################
 # CRASH / LOG FILES
 #####################################
-
 *.log
 crashlytics-build.properties
 
 #####################################
 # macOS SYSTEM FILES
 #####################################
-
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -86,7 +80,6 @@ Icon?
 #####################################
 # WINDOWS SYSTEM FILES
 #####################################
-
 Thumbs.db
 ehthumbs.db
 Desktop.ini
@@ -95,7 +88,6 @@ $RECYCLE.BIN/
 #####################################
 # LINUX SYSTEM FILES
 #####################################
-
 *~
 .fuse_hidden*
 .directory
@@ -105,7 +97,6 @@ $RECYCLE.BIN/
 #####################################
 # TEMP / BACKUP FILES (GENERIC)
 #####################################
-
 *.bak
 *.swp
 *.orig
